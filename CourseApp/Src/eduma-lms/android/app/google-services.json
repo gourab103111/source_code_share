@@ -1,0 +1,413 @@
+{
+  "project_info": {
+    "project_number": "710221332980",
+    "firebase_url": "https://mobapkipodgladmap.firebaseio.com",
+    "project_id": "mobapkipodgladmap",
+    "storage_bucket": "mobapkipodgladmap.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:710221332980:android:15d219bf7c8d37ff5639a1",
+        "android_client_info": {
+          "package_name": "com.akademia.zeglarza"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "710221332980-rue1hq3dvrbv392jppbd8lolvm7kc5og.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbF5KC369Rc6XpXQMyUre08gVgsM53nUw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "710221332980-dqvbh682vjql94nn9k335vkh1f6dcaoq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "710221332980-10alosgfifbacnqv71es4v3dosr8flkb.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mojakoja.app",
+                "app_store_id": "1566900443"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:710221332980:android:99ad994cc0af2dc9",
+        "android_client_info": {
+          "package_name": "com.mobapki.gazetaklomnicka"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "710221332980-spk9rts1nssvonb434q0in0a8q6o6041.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mobapki.gazetaklomnicka",
+            "certificate_hash": "9edf7fe12ed2a2472fb07df1e398d1039b9d2f5d"
+          }
+        },
+        {
+          "client_id": "710221332980-rue1hq3dvrbv392jppbd8lolvm7kc5og.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbF5KC369Rc6XpXQMyUre08gVgsM53nUw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "710221332980-dqvbh682vjql94nn9k335vkh1f6dcaoq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "710221332980-10alosgfifbacnqv71es4v3dosr8flkb.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mojakoja.app",
+                "app_store_id": "1566900443"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:710221332980:android:423ac79f21ebae1d",
+        "android_client_info": {
+          "package_name": "com.mobapki.jasnagora"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "710221332980-rue1hq3dvrbv392jppbd8lolvm7kc5og.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbF5KC369Rc6XpXQMyUre08gVgsM53nUw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "710221332980-dqvbh682vjql94nn9k335vkh1f6dcaoq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "710221332980-10alosgfifbacnqv71es4v3dosr8flkb.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mojakoja.app",
+                "app_store_id": "1566900443"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:710221332980:android:6d875037304c370a",
+        "android_client_info": {
+          "package_name": "com.mobapki.magazynzegarkiclub"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "710221332980-5ngmk3fpuljeqq3qb34oibiavcb2ebs2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mobapki.magazynzegarkiclub",
+            "certificate_hash": "9edf7fe12ed2a2472fb07df1e398d1039b9d2f5d"
+          }
+        },
+        {
+          "client_id": "710221332980-rue1hq3dvrbv392jppbd8lolvm7kc5og.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbF5KC369Rc6XpXQMyUre08gVgsM53nUw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "710221332980-dqvbh682vjql94nn9k335vkh1f6dcaoq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "710221332980-10alosgfifbacnqv71es4v3dosr8flkb.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mojakoja.app",
+                "app_store_id": "1566900443"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:710221332980:android:a03cb89a107656bc5639a1",
+        "android_client_info": {
+          "package_name": "com.mobapki.milowka"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "710221332980-rue1hq3dvrbv392jppbd8lolvm7kc5og.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbF5KC369Rc6XpXQMyUre08gVgsM53nUw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "710221332980-dqvbh682vjql94nn9k335vkh1f6dcaoq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "710221332980-10alosgfifbacnqv71es4v3dosr8flkb.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mojakoja.app",
+                "app_store_id": "1566900443"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:710221332980:android:191832e83929f828",
+        "android_client_info": {
+          "package_name": "com.mobapki.naturalnieblachownia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "710221332980-rue1hq3dvrbv392jppbd8lolvm7kc5og.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbF5KC369Rc6XpXQMyUre08gVgsM53nUw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "710221332980-dqvbh682vjql94nn9k335vkh1f6dcaoq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "710221332980-10alosgfifbacnqv71es4v3dosr8flkb.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mojakoja.app",
+                "app_store_id": "1566900443"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:710221332980:android:fdc80d1ed2feab84",
+        "android_client_info": {
+          "package_name": "com.mobapki.pasma"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "710221332980-rue1hq3dvrbv392jppbd8lolvm7kc5og.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbF5KC369Rc6XpXQMyUre08gVgsM53nUw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "710221332980-dqvbh682vjql94nn9k335vkh1f6dcaoq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "710221332980-10alosgfifbacnqv71es4v3dosr8flkb.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mojakoja.app",
+                "app_store_id": "1566900443"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:710221332980:android:ccef269db8578fa55639a1",
+        "android_client_info": {
+          "package_name": "com.mobapki.radioemkielce"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "710221332980-rue1hq3dvrbv392jppbd8lolvm7kc5og.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbF5KC369Rc6XpXQMyUre08gVgsM53nUw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "710221332980-dqvbh682vjql94nn9k335vkh1f6dcaoq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "710221332980-10alosgfifbacnqv71es4v3dosr8flkb.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mojakoja.app",
+                "app_store_id": "1566900443"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:710221332980:android:483a109533a5300d",
+        "android_client_info": {
+          "package_name": "com.mobapkipl.kongres"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "710221332980-5421alqeduq9dr4rsibgaddkd6tk41o0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mobapkipl.kongres",
+            "certificate_hash": "9edf7fe12ed2a2472fb07df1e398d1039b9d2f5d"
+          }
+        },
+        {
+          "client_id": "710221332980-rue1hq3dvrbv392jppbd8lolvm7kc5og.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbF5KC369Rc6XpXQMyUre08gVgsM53nUw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "710221332980-dqvbh682vjql94nn9k335vkh1f6dcaoq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "710221332980-10alosgfifbacnqv71es4v3dosr8flkb.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mojakoja.app",
+                "app_store_id": "1566900443"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:710221332980:android:e57b6c7fada6a2745639a1",
+        "android_client_info": {
+          "package_name": "com.mojakoja.mojakoja"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "710221332980-9kq2o2okb6hg2rifun9kctnd8umdo23h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mojakoja.mojakoja",
+            "certificate_hash": "2da9a79d5ba71b6e4ff74a07b4bafdf4951f193f"
+          }
+        },
+        {
+          "client_id": "710221332980-rue1hq3dvrbv392jppbd8lolvm7kc5og.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbF5KC369Rc6XpXQMyUre08gVgsM53nUw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "710221332980-dqvbh682vjql94nn9k335vkh1f6dcaoq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "710221332980-10alosgfifbacnqv71es4v3dosr8flkb.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mojakoja.app",
+                "app_store_id": "1566900443"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

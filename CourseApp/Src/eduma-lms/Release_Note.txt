@@ -1,0 +1,6 @@
+VERSION 1.2.0:
+- Compatible with Dart 3.5.0.
+- Compatible with Eduma 5.5.4
+- Fix course lesson add audio
+- Fix some error.
+

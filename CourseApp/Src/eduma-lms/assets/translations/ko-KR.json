@@ -1,0 +1,302 @@
+{
+  "login": "로그인",
+  "register": "등록하다",
+  "logout": "로그 아웃",
+  "lesson": "수업",
+  "course": "강의",
+  "quiz": "퀴즈",
+  "assignment": "과제",
+  "instructor": "강사",
+  "dataNotFound": "데이터를 찾을 수 없습니다",
+  "needLogin": "이 콘텐츠에 접근하려면 로그인이 필요합니다",
+  "free": "무료",
+  "sale": "판매",
+  "durations": "기간: ",
+  "alert": {
+    "logoutTxt": "정말로 로그아웃하시겠습니까?",
+    "ok": "좋아요",
+    "cancel": "취소",
+    "notLoggedIn": "로그인하지 않았습니다",
+    "loggedIn": "계속하려면 로그인하세요.",
+    "btnLogin": "로그인",
+    "restorePurchases": "구매를 복원",
+    "restorePurchasesSuccess": "구매가 성공적으로 복원되었습니다.",
+    "restorePurchasesError": "이 강좌는 복원할 수 없습니다."
+  },
+  "bottomNavigation": {
+    "home": "집",
+    "courses": "과정",
+    "myCourse": "내 코스",
+    "wishlist": "위시리스트",
+    "profile": "내 프로필"
+  },
+  "loginScreen": {
+    "title": "귀하의 계정에 로그인하십시오",
+    "usernamePlaceholder": "사용자 이름",
+    "passwordPlaceholder": "비밀번호",
+    "btnLogin": "로그인",
+    "forgotPassword": "비밀번호를 잊어 버렸습니까",
+    "registerText": "계정이 없나요?",
+    "register": "가입하기",
+    "usernameEmpty": "사용자 이름이 필요합니다",
+    "passwordEmpty": "비밀번호가 필요합니다",
+    "usernameNotCorrect": "사용자 이름이 올바르지 않습니다.",
+    "passwordNotCorrect": "비밀번호가 올바르지 않습니다.",
+    "notFound": "찾을 수 없음"
+  },
+  "registerScreen": {
+    "title": "계정 만들기",
+    "usernamePlaceholder": "사용자 이름",
+    "emailPlaceholder": "이메일",
+    "passwordPlaceholder": "비밀번호",
+    "confirmPasswordPlaceholder": "비밀번호 확인",
+    "termAndCondition": "이용약관에 동의합니다.",
+    "btnSubmit": "가입하기",
+    "usernameEmpty": "사용자 이름이 필요합니다",
+    "emailEmpty": "이메일은 필수입니다",
+    "validEmail": "이메일이 유효하지 않습니다",
+    "passwordEmpty": "비밀번호가 필요합니다",
+    "confirmPasswordEmpty": "비밀번호 확인이 필요합니다",
+    "incorrectPassword": "확인 비밀번호가 잘못되었습니다!",
+    "termAndConditionEmpty": "이용약관에 동의해야 합니다."
+  },
+  "home": {
+    "overview": {
+      "title": "최신 과정 개요",
+      "section": "부분",
+      "sections": "섹션"
+    },
+    "category": "안녕하세요, 오늘은 무엇을 배울까요?",
+    "popular": "인기 강좌",
+    "new": "새로운 코스",
+    "countCourse": "과정",
+    "countStudent": "재학생"
+  },
+  "courses": {
+    "title": "과정",
+    "searching": "수색",
+    "filters": {
+      "filter": "필터",
+      "default": "기본",
+      "title": "제목",
+      "sale": "판매",
+      "popular": "인기 있는",
+      "newest": "최신",
+      "oldest": "가장 오래된"
+    }
+  },
+  "searchScreen": {
+    "placeholder": "찾다...",
+    "title": "최근 검색"
+  },
+  "myCourse": {
+    "title": "내 코스",
+    "filters": {
+      "filter": "필터",
+      "all": "모두",
+      "passed": "합격",
+      "inProgress": "진행중",
+      "failed": "실패한"
+    }
+  },
+  "wishlist": {
+    "title": "내 위시리스트"
+  },
+  "profile": {
+    "title": "프로필",
+    "version": "버전: {} - 빌드: {}"
+  },
+  "settings": {
+    "title": "설정",
+    "general": "일반적인",
+    "password": "비밀번호",
+    "deleteAccount": "계정 삭제",
+    "upload": "업로드",
+    "update": "업데이트",
+    "bio": "약력 정보",
+    "firstName": "이름",
+    "lastName": "성",
+    "nickName": "별명",
+    "save": "변경 사항을 저장하다",
+    "currentPassword": "현재 비밀번호",
+    "newPassword": "새 비밀번호",
+    "confirmNewPassword": "새 암호를 확인합니다",
+    "deleteAccountTitle": "이 계정을 삭제하시겠습니까? ",
+    "deleteAccountTitle2": "계정",
+    "deleteAccountContent": "귀하의 계정은 당사 데이터베이스에서 삭제됩니다. ",
+    "deleteAccountContent2": "확인을 위해 비밀번호를 입력하세요:",
+    "deleteAccountBtn": "삭제",
+    "chooseFrom": "다음에서 선택",
+    "camera": "카메라",
+    "gallery": "갤러리",
+    "cancel": "취소",
+    "passwordAlreadyExists": "비밀번호는 이미 사용되었습니다.",
+    "passwordNotMatch": "입력한 비밀번호가 일치하지 않습니다.",
+    "newPasswordIsRequired": "새로운 비밀번호가 필요합니다",
+    "currentPasswordIsRequired": "현재 비밀번호가 필요합니다",
+    "confirmPasswordIsRequired": "비밀번호 확인은 필수입니다"
+  },
+  "myOrders": {
+    "title": "내 주문",
+    "order": "주문하다",
+    "date": "날짜",
+    "status": "상태",
+    "total": "총",
+    "completed": "완전한"
+  },
+  "instructorScreen": {
+    "title": "강사",
+    "countCourse": "{count} 강좌",
+    "countStudent": "{count} 학생"
+  },
+  "singleCourse": {
+    "title": "단일 코스",
+    "overview": "개요",
+    "curriculum": "과정",
+    "curriculumEmpty": "교육 과정이 비어 있습니다.",
+    "instructor": "강사",
+    "review": "검토",
+    "rating": "평가",
+    "leaveAReview": "리뷰를 남겨주세요",
+    "leaveAReviewDescription": "귀하의 평가를 정당화하고 다른 사람들에게 도움이 될 수 있도록 최대한 자세한 내용을 제공해 주십시오.",
+    "reviewTitle": "제목",
+    "reviewTitleEmpty": "제목 등급을 입력하세요.",
+    "reviewContentEmpty": "콘텐츠 등급을 입력하세요.",
+    "reviewRating": "평가",
+    "reviewContent": "콘텐츠",
+    "reviewSubmit": "리뷰 제출",
+    "btnContinue": "계속하다",
+    "btnStartNow": "지금 시작하세요",
+    "btnAddToCart": "장바구니에 추가",
+    "btnRestore": "복원하다",
+    "btnRetake": "다시 잡다",
+    "retakeNotice": "재응시 성공",
+    "passed": "합격",
+    "failed": "실패한",
+    "finished": "완성된",
+    "average": "평균:",
+    "purchaseNotCompleted": "구매가 완료되지 않았습니다. 나중에 다시 시도해 주세요.",
+    "restoreCourseNotPurchase": "이 강좌는 복원할 수 없습니다.",
+    "showAllReview": "모두 보이기"
+  },
+  "forgot": {
+    "title": "비밀번호를 잊어 버렸습니까",
+    "description": "당신의 이메일 주소를 입력하십시오. ",
+    "emailPlaceholder": "귀하의 이메일 주소",
+    "btnSubmit": "암호를 재설정"
+  },
+  "learningScreen": {
+    "finishCourse": "코스 종료",
+    "finishCourseAlert": {
+      "title": "코스 종료",
+      "description": "이 과정을 마치시겠습니까?",
+      "cancel": "취소",
+      "ok": "좋아요"
+    },
+    "lesson": {
+      "btnComplete": "완벽한",
+      "notificationLessonSuccess": "축하해요! 수업을 성공적으로 완료했습니다.",
+      "alert": {
+        "title": "완전한",
+        "ok": "좋아요"
+      }
+    },
+    "quiz": {
+      "questionCount": "질문:",
+      "passingGrade": "합격등급:",
+      "btnStart": "시작",
+      "result": {
+        "title": "귀하의 결과",
+        "failed": "퀴즈 성적이 실패했습니다.  {result}%(요구사항은 {grade})",
+        "questions": "질문",
+        "correct": "옳은",
+        "wrong": "잘못된",
+        "skipped": "건너뛰었습니다.",
+        "points": "포인트들",
+        "timespent": "소요 시간",
+        "btnRetake": "다시 잡다",
+        "btnRetakeUnlimited": "제한 없는",
+        "btnReview": "검토"
+      },
+      "pointResult": "{}/1 포인트들",
+      "timeRemaining": "남은",
+      "correct": "옳은",
+      "inCorrect": "잘못된",
+      "point": "가리키다",
+      "explanation": "설명",
+      "btnCheck": "답을 확인하다",
+      "checkAlert": "질문에 먼저 답변해주세요",
+      "questionAnswered": "질문에 답변됨",
+      "btnFinish": "마치다",
+      "nextQuestion": "귀하는 모든 질문에 답변했습니다. ",
+      "hint": "힌트",
+      "hintEmpty": "힌트가 비어 있습니다."
+    },
+    "assignment": {
+      "title": "과제",
+      "acceptAllowed": "허용된 시도",
+      "durations": "기간 ",
+      "passingGrade": "합격등급",
+      "point": "{{point}} 포인트들)",
+      "start": "시작",
+      "timeRemaining": "남은 시간",
+      "overview": "개요:",
+      "contentTitle": "왜 우리는 그것을 사용합니까?",
+      "attachmentFile": "부착:",
+      "answer": "답변:",
+      "chooseFile": "파일 선택",
+      "nofile": "파일을 선택하지 않음",
+      "chooseFileDescription": "(추가로 업로드할 수 있는 최대 파일 수: {{files_amount}}. 다음 유형만 업로드 허용: {{allow_file_type}})",
+      "save": "구하다",
+      "send": "보내다",
+      "yourResult": "결과:",
+      "attachments": "첨부파일:",
+      "missingAttachment": "첨부파일 누락",
+      "missingAttachments": "첨부파일 누락",
+      "yourAnswer": "너의 답:",
+      "yourUploadedFiles": "업로드한 파일:",
+      "instructorMessage": "강사 메시지:",
+      "references": "참고자료:",
+      "messageSaveAssignment": "진행 상황이 저장되었습니다! ",
+      "resultPassed": "합격",
+      "resultFailed": "실패한",
+      "btnRetake": "재응시({{count}})",
+      "deleteFileTitle": "파일 삭제",
+      "deleteFileMessage": "이 파일을 삭제하시겠습니까?",
+      "deleteFileSuccessMessage": "파일을 성공적으로 제거했습니다.",
+      "cancel": "취소",
+      "notificationSuccess": "당신이 한 일은 강사들에게 전송되었습니다. 평가 결과를 기다려주세요!",
+      "ok": "좋아요"
+    }
+  },
+  "notification": {
+    "title": "알림",
+    "empty": "알림 없음",
+    "error": "알림을 받는 중에 오류가 발생했습니다."
+  },
+  "reviews": {
+    "title": "리뷰",
+    "empty": "리뷰 없음",
+    "error": "리뷰를 받는 중 오류가 발생했습니다."
+  },
+  "reviewQuiz": {
+    "status": {
+      "success": "옳은",
+      "failed": "잘못된"
+    },
+    "failed": "실패한",
+    "success": "성공",
+    "graduation": "퀴즈 성적이 실패했습니다. 결과는 {}%입니다(요구사항은 {}입니다)."
+  },
+  "language": "언어",
+  "changeLanguageSuccess": "언어 업데이트에 성공했습니다.",
+  "error": "오류",
+  "loading": "로드 중...",
+  "weeks": "주",
+  "days": "날",
+  "hour": "시간",
+  "minutes": "분",
+  "active": {
+    "lpWishlist": "Please active plugin LearnPress- Course Wishlist!"
+  }
+}

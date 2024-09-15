@@ -1,0 +1,302 @@
+{
+  "login": "وارد شدن",
+  "register": "ثبت نام",
+  "logout": "خروج",
+  "lesson": "درس",
+  "course": "دوره",
+  "quiz": "امتحان",
+  "assignment": "وظیفه",
+  "instructor": "مربی",
+  "dataNotFound": "داده یافت نشد",
+  "needLogin": "برای دسترسی به این محتوا باید وارد شوید",
+  "free": "رایگان",
+  "sale": "فروش",
+  "durations": "مدت زمان: ",
+  "alert": {
+    "logoutTxt": "آیا برای خارج شدن مطمئن هستید؟",
+    "ok": "خوب",
+    "cancel": "لغو کنید",
+    "notLoggedIn": "وارد نشده اید",
+    "loggedIn": "لطفا برای ادامه وارد شوید.",
+    "btnLogin": "وارد شدن",
+    "restorePurchases": "بازگرداندن خرید",
+    "restorePurchasesSuccess": "خریدها با موفقیت بازیابی شدند",
+    "restorePurchasesError": "شما نمی توانید این دوره را بازیابی کنید"
+  },
+  "bottomNavigation": {
+    "home": "صفحه اصلی",
+    "courses": "دوره های آموزشی",
+    "myCourse": "واحد درسی من",
+    "wishlist": "لیست علاقه مندیها",
+    "profile": "پروفایل من"
+  },
+  "loginScreen": {
+    "title": "وارد حساب کاربری خود شوید",
+    "usernamePlaceholder": "نام کاربری",
+    "passwordPlaceholder": "کلمه عبور",
+    "btnLogin": "وارد شدن",
+    "forgotPassword": "رمز عبور خود را فراموش کرده اید",
+    "registerText": "حساب کاربری ندارید؟",
+    "register": "ثبت نام",
+    "usernameEmpty": "نام کاربری لازم است",
+    "passwordEmpty": "رمز عبور مورد نیاز است",
+    "usernameNotCorrect": "نام کاربری صحیح نیست",
+    "passwordNotCorrect": "رمز عبور صحیح نیست",
+    "notFound": "پیدا نشد"
+  },
+  "registerScreen": {
+    "title": "یک حساب کاربری ایجاد کنید",
+    "usernamePlaceholder": "نام کاربری",
+    "emailPlaceholder": "پست الکترونیک",
+    "passwordPlaceholder": "کلمه عبور",
+    "confirmPasswordPlaceholder": "رمز عبور را تایید کنید",
+    "termAndCondition": "من با شرایط و ضوابط توافق نامه موافقم",
+    "btnSubmit": "ثبت نام",
+    "usernameEmpty": "نام کاربری لازم است",
+    "emailEmpty": "ایمیل مورد نیاز است",
+    "validEmail": "ایمیل معتبر نیست",
+    "passwordEmpty": "رمز عبور مورد نیاز است",
+    "confirmPasswordEmpty": "تایید رمز عبور لازم است",
+    "incorrectPassword": "رمز عبور تایید نادرست است!",
+    "termAndConditionEmpty": "شما باید با شرایط و ضوابط موافقت کنید"
+  },
+  "home": {
+    "overview": {
+      "title": "آخرین دوره آموزشی خود را مرور کنید",
+      "section": "بخش",
+      "sections": "بخش ها"
+    },
+    "category": "سلام امروز چی یاد میگیری؟",
+    "popular": "دوره های محبوب",
+    "new": "دوره های جدید",
+    "countCourse": "دوره های آموزشی",
+    "countStudent": "دانش آموزان"
+  },
+  "courses": {
+    "title": "دوره های آموزشی",
+    "searching": "جستجوکردن",
+    "filters": {
+      "filter": "فیلتر کنید",
+      "default": "پیش فرض",
+      "title": "عنوان",
+      "sale": "فروش",
+      "popular": "محبوب",
+      "newest": "جدیدترین",
+      "oldest": "قدیمی ترین"
+    }
+  },
+  "searchScreen": {
+    "placeholder": "جستجو کردن...",
+    "title": "جستجوی اخیر"
+  },
+  "myCourse": {
+    "title": "واحد درسی من",
+    "filters": {
+      "filter": "فیلتر کنید",
+      "all": "همه",
+      "passed": "گذشت",
+      "inProgress": "در حال پیش رفت",
+      "failed": "ناموفق"
+    }
+  },
+  "wishlist": {
+    "title": "لیست علاقه مندی های من"
+  },
+  "profile": {
+    "title": "مشخصات",
+    "version": "نسخه: {} - ساخت: {}"
+  },
+  "settings": {
+    "title": "تنظیمات",
+    "general": "عمومی",
+    "password": "کلمه عبور",
+    "deleteAccount": "حذف حساب کاربری",
+    "upload": "بارگذاری",
+    "update": "به روز رسانی",
+    "bio": "اطلاعات بیوگرافی",
+    "firstName": "نام کوچک",
+    "lastName": "نام خانوادگی",
+    "nickName": "نام مستعار",
+    "save": "ذخیره تغییرات",
+    "currentPassword": "رمز عبور فعلی",
+    "newPassword": "رمز عبور جدید",
+    "confirmNewPassword": "رمز عبور جدید را تأیید کنید",
+    "deleteAccountTitle": "آیا مطمئن هستید که می خواهید این حساب را حذف کنید؟ ",
+    "deleteAccountTitle2": "حساب",
+    "deleteAccountContent": "حساب شما از پایگاه داده ما حذف خواهد شد. ",
+    "deleteAccountContent2": "لطفا رمز عبور خود را برای تایید وارد کنید:",
+    "deleteAccountBtn": "حذف",
+    "chooseFrom": "از را انتخاب کنید",
+    "camera": "دوربین",
+    "gallery": "آلبوم عکس",
+    "cancel": "لغو کنید",
+    "passwordAlreadyExists": "رمز عبور قبلاً گرفته شده است.",
+    "passwordNotMatch": "گذرواژه هایی که وارد می کنید مطابقت ندارند",
+    "newPasswordIsRequired": "رمز عبور جدید مورد نیاز است",
+    "currentPasswordIsRequired": "رمز عبور فعلی مورد نیاز است",
+    "confirmPasswordIsRequired": "رمز عبور تأیید مورد نیاز است"
+  },
+  "myOrders": {
+    "title": "دستورات من",
+    "order": "سفارش",
+    "date": "تاریخ",
+    "status": "وضعیت",
+    "total": "جمع",
+    "completed": "تکمیل شد"
+  },
+  "instructorScreen": {
+    "title": "مربی",
+    "countCourse": "{count} دوره",
+    "countStudent": "{count} دانش‌آموز"
+  },
+  "singleCourse": {
+    "title": "دوره های تک",
+    "overview": "بررسی اجمالی",
+    "curriculum": "برنامه تحصیلی",
+    "curriculumEmpty": "برنامه درسی خالی است",
+    "instructor": "مربی",
+    "review": "مرور",
+    "rating": "رتبه بندی",
+    "leaveAReview": "نظر بدهید",
+    "leaveAReviewDescription": "لطفاً تا جایی که می توانید جزئیات را برای توجیه رتبه خود و کمک به دیگران ارائه دهید.",
+    "reviewTitle": "عنوان",
+    "reviewTitleEmpty": "لطفا رتبه عنوان را وارد کنید",
+    "reviewContentEmpty": "لطفا رتبه بندی محتوا را وارد کنید",
+    "reviewRating": "رتبه بندی",
+    "reviewContent": "محتوا",
+    "reviewSubmit": "ارسال بررسی",
+    "btnContinue": "ادامه هید",
+    "btnStartNow": "الان شروع کن",
+    "btnAddToCart": "به سبد خرید اضافه کنید",
+    "btnRestore": "بازگرداندن",
+    "btnRetake": "دوباره گرفتن",
+    "retakeNotice": "موفقیت را دوباره بدست آورید",
+    "passed": "گذشت",
+    "failed": "ناموفق",
+    "finished": "تمام شده",
+    "average": "میانگین:",
+    "purchaseNotCompleted": "خرید شما تکمیل نشده است، لطفاً بعداً دوباره امتحان کنید",
+    "restoreCourseNotPurchase": "شما نمی توانید این دوره را بازیابی کنید",
+    "showAllReview": "نمایش همه"
+  },
+  "forgot": {
+    "title": "رمز عبور خود را فراموش کرده اید",
+    "description": "لطفا آدرس ایمیل خود را وارد کنید. ",
+    "emailPlaceholder": "آدرس ایمیل شما",
+    "btnSubmit": "بازنشانی رمز عبور"
+  },
+  "learningScreen": {
+    "finishCourse": "دوره را تمام کنید",
+    "finishCourseAlert": {
+      "title": "دوره را تمام کنید",
+      "description": "آیا مطمئن هستید که می خواهید این دوره را به پایان برسانید؟",
+      "cancel": "لغو کنید",
+      "ok": "خوب"
+    },
+    "lesson": {
+      "btnComplete": "کامل",
+      "notificationLessonSuccess": "تبریک میگم ",
+      "alert": {
+        "title": "تکمیل شد",
+        "ok": "خوب"
+      }
+    },
+    "quiz": {
+      "questionCount": "سوالات:",
+      "passingGrade": "عبور درجه:",
+      "btnStart": "شروع کنید",
+      "result": {
+        "title": "نتیجه شما",
+        "failed": "نمره آزمون شما ناموفق بود.  {{result}}% (الزام این است {{grade}})",
+        "questions": "سوالات",
+        "correct": "درست",
+        "wrong": "اشتباه",
+        "skipped": "رد شد",
+        "points": "نکته ها",
+        "timespent": "زمان صرف شده",
+        "btnRetake": "دوباره گرفتن",
+        "btnRetakeUnlimited": "نامحدود",
+        "btnReview": "مرور"
+      },
+      "timeRemaining": "باقی مانده است",
+      "correct": "درست",
+      "inCorrect": "غلط",
+      "point": "نقطه",
+      "pointResult": "1/1 امتیاز",
+      "explanation": "توضیح",
+      "btnCheck": "پاسخ را بررسی کنید",
+      "checkAlert": "لطفا ابتدا به سوالات پاسخ دهید",
+      "questionAnswered": "سوال پاسخ داده شد",
+      "btnFinish": "پایان",
+      "nextQuestion": "شما به تمام سوالات خود پاسخ داده اید. ",
+      "hint": "اشاره",
+      "hintEmpty": "اشاره خالی است"
+    },
+    "assignment": {
+      "title": "وظیفه",
+      "acceptAllowed": "تلاش مجاز است",
+      "durations": "مدت زمان ",
+      "passingGrade": "عبور درجه",
+      "point": "{{point}} نکته ها)",
+      "start": "شروع کنید",
+      "timeRemaining": "زمان باقی مانده",
+      "overview": "بررسی اجمالی:",
+      "contentTitle": "چرا از آن استفاده می کنیم؟",
+      "attachmentFile": "پیوست:",
+      "answer": "پاسخ:",
+      "chooseFile": "فایل ها را انتخاب کنید",
+      "nofile": "هیچ فایلی انتخاب نشد",
+      "chooseFileDescription": "(حداکثر تعداد فایل هایی که می توانید بیشتر آپلود کنید: {{files_amount}}.  {{allow_file_type}})",
+      "save": "صرفه جویی",
+      "send": "ارسال",
+      "yourResult": "نتیجه شما:",
+      "attachments": "پیوست ها:",
+      "missingAttachment": "پیوست وجود ندارد",
+      "missingAttachments": "پیوست‌های مفقود شده",
+      "yourAnswer": "جواب شما:",
+      "yourUploadedFiles": "فایل های آپلود شده شما:",
+      "instructorMessage": "پیام مربی:",
+      "references": "منابع:",
+      "messageSaveAssignment": "پیشرفت ذخیره شد! ",
+      "resultPassed": "گذشت",
+      "resultFailed": "ناموفق",
+      "btnRetake": "دوباره گرفتن ({{count}})",
+      "deleteFileTitle": "حذف فایل",
+      "deleteFileMessage": "آیا مطمئن هستید که می خواهید این فایل را حذف کنید؟",
+      "deleteFileSuccessMessage": "حذف فایل با موفقیت",
+      "cancel": "لغو کنید",
+      "ok": "خوب",
+      "notificationSuccess": "کاری که انجام دادید برای مربیان ارسال شد، لطفاً منتظر نتیجه ارزیابی شده باشید!"
+    }
+  },
+  "notification": {
+    "title": "اطلاعیه",
+    "empty": "بدون اطلاعیه",
+    "error": "خطا هنگام دریافت اعلان ها"
+  },
+  "reviews": {
+    "title": "بررسی ها",
+    "empty": "بدون بررسی",
+    "error": "خطا هنگام دریافت نظرات"
+  },
+  "reviewQuiz": {
+    "status": {
+      "success": "درست",
+      "failed": "غلط"
+    },
+    "failed": "ناموفق",
+    "success": "موفقیت",
+    "graduation": "نمره آزمون شما ناموفق بود. "
+  },
+  "language": "زبان",
+  "changeLanguageSuccess": "به روز رسانی زبان با موفقیت انجام شد.",
+  "error": "خطا",
+  "loading": "بارگذاری...",
+  "weeks": "هفته ها",
+  "days": "روزها",
+  "hour": "ساعت",
+  "minutes": "دقایق",
+  "active": {
+    "lpWishlist": "Please active plugin LearnPress- Course Wishlist!"
+  }
+}

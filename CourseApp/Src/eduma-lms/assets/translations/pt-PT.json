@@ -1,0 +1,302 @@
+{
+  "login": "Conecte-se",
+  "register": "Registro",
+  "logout": "Sair",
+  "lesson": "Lição",
+  "course": "Curso",
+  "quiz": "Questionário",
+  "assignment": "Atribuição",
+  "instructor": "Instrutor",
+  "dataNotFound": "Dados não encontrados",
+  "needLogin": "Você precisa fazer login para acessar este conteúdo",
+  "free": "LIVRE",
+  "sale": "OFERTA",
+  "durations": "Durações: ",
+  "alert": {
+    "logoutTxt": "Tem certeza que deseja sair?",
+    "ok": "OK",
+    "cancel": "Cancelar",
+    "notLoggedIn": "Não logado",
+    "loggedIn": "Por favor faça o login para continuar.",
+    "btnLogin": "Conecte-se",
+    "restorePurchases": "Restaurar compras",
+    "restorePurchasesSuccess": "Compras restauradas com sucesso",
+    "restorePurchasesError": "Você não pode restaurar este curso"
+  },
+  "bottomNavigation": {
+    "home": "Lar",
+    "courses": "Cursos",
+    "myCourse": "Meu curso",
+    "wishlist": "Lista de Desejos",
+    "profile": "Meu perfil"
+  },
+  "loginScreen": {
+    "title": "Faça login na sua conta",
+    "usernamePlaceholder": "Nome de usuário",
+    "passwordPlaceholder": "Senha",
+    "btnLogin": "Conecte-se",
+    "forgotPassword": "Esqueceu sua senha",
+    "registerText": "Não tem conta?",
+    "register": "Inscrever-se",
+    "usernameEmpty": "Nome de usuário é requerido",
+    "passwordEmpty": "Senha requerida",
+    "usernameNotCorrect": "O nome de usuário não está correto",
+    "passwordNotCorrect": "A senha não está correta",
+    "notFound": "Não encontrado"
+  },
+  "registerScreen": {
+    "title": "Crie a sua conta aqui",
+    "usernamePlaceholder": "Nome de usuário",
+    "emailPlaceholder": "E-mail",
+    "passwordPlaceholder": "Senha",
+    "confirmPasswordPlaceholder": "Confirme sua senha",
+    "termAndCondition": "Eu concordo com os termos e condições do Contrato",
+    "btnSubmit": "Inscrever-se",
+    "usernameEmpty": "Nome de usuário é requerido",
+    "emailEmpty": "O e-mail é obrigatório",
+    "validEmail": "E-mail não é válido",
+    "passwordEmpty": "Senha requerida",
+    "confirmPasswordEmpty": "A confirmação da senha é obrigatória",
+    "incorrectPassword": "Senha de confirmação incorreta!",
+    "termAndConditionEmpty": "Você deve concordar com os termos e condições"
+  },
+  "home": {
+    "overview": {
+      "title": "Visão geral do seu curso mais recente",
+      "section": "Seção",
+      "sections": "Seções"
+    },
+    "category": "Olá, o que você aprenderia hoje?",
+    "popular": "Cursos populares",
+    "new": "Novos cursos",
+    "countCourse": "Cursos",
+    "countStudent": "Alunos"
+  },
+  "courses": {
+    "title": "Cursos",
+    "searching": "Procurando",
+    "filters": {
+      "filter": "Filtro",
+      "default": "Padrão",
+      "title": "Título",
+      "sale": "Oferta",
+      "popular": "Popular",
+      "newest": "O mais novo",
+      "oldest": "Mais antigo"
+    }
+  },
+  "searchScreen": {
+    "placeholder": "Procurar...",
+    "title": "Pesquisa recente"
+  },
+  "myCourse": {
+    "title": "Meu curso",
+    "filters": {
+      "filter": "Filtro",
+      "all": "Todos",
+      "passed": "Passado",
+      "inProgress": "Em andamento",
+      "failed": "Fracassado"
+    }
+  },
+  "wishlist": {
+    "title": "Minha Lista de Desejos"
+  },
+  "profile": {
+    "title": "Perfil",
+    "version": "Versão: {} - Versão: {}"
+  },
+  "settings": {
+    "title": "Configurações",
+    "general": "Em geral",
+    "password": "Senha",
+    "deleteAccount": "Deletar conta",
+    "upload": "Carregar",
+    "update": "Atualizar",
+    "bio": "informação biográfica",
+    "firstName": "Primeiro nome",
+    "lastName": "Sobrenome",
+    "nickName": "Apelido",
+    "save": "Salvar alterações",
+    "currentPassword": "Senha atual",
+    "newPassword": "Nova Senha",
+    "confirmNewPassword": "Confirme a nova senha",
+    "deleteAccountTitle": "Tem certeza de que deseja excluir esta conta? ",
+    "deleteAccountTitle2": "Conta",
+    "deleteAccountContent": "Sua conta será excluída do nosso banco de dados. ",
+    "deleteAccountContent2": "Por favor digite sua senha para confirmar:",
+    "deleteAccountBtn": "Excluir",
+    "chooseFrom": "Escolha de",
+    "camera": "Câmera",
+    "gallery": "Galeria",
+    "cancel": "Cancelar",
+    "passwordAlreadyExists": "A senha já foi usada.",
+    "passwordNotMatch": "As senhas que você está inserindo não correspondem",
+    "newPasswordIsRequired": "A nova senha é obrigatória",
+    "currentPasswordIsRequired": "A senha atual é obrigatória",
+    "confirmPasswordIsRequired": "A senha de confirmação é necessária"
+  },
+  "myOrders": {
+    "title": "minhas ordens",
+    "order": "Ordem",
+    "date": "Data",
+    "status": "Status",
+    "total": "Total",
+    "completed": "concluído"
+  },
+  "instructorScreen": {
+    "title": "Instrutor",
+    "countCourse": "{count} cursos",
+    "countStudent": "{count} alunos"
+  },
+  "singleCourse": {
+    "title": "Cursos Individuais",
+    "overview": "Visão geral",
+    "curriculum": "Currículo",
+    "curriculumEmpty": "O currículo está vazio",
+    "instructor": "Instrutor",
+    "review": "Análise",
+    "rating": "avaliação",
+    "leaveAReview": "Deixe um comentário",
+    "leaveAReviewDescription": "Forneça o máximo de detalhes possível para justificar sua classificação e ajudar outras pessoas.",
+    "reviewTitle": "Título",
+    "reviewTitleEmpty": "Insira a classificação do título",
+    "reviewContentEmpty": "Insira a classificação do conteúdo",
+    "reviewRating": "Avaliação",
+    "reviewContent": "Contente",
+    "reviewSubmit": "Enviar revisão",
+    "btnContinue": "Continuar",
+    "btnStartNow": "Comece agora",
+    "btnAddToCart": "adicionar ao carrinho",
+    "btnRestore": "Restaurar",
+    "btnRetake": "Retomar",
+    "retakeNotice": "Retomar sucesso",
+    "passed": "Passado",
+    "failed": "Fracassado",
+    "finished": "Finalizado",
+    "average": "Média:",
+    "purchaseNotCompleted": "Sua compra não foi concluída, tente novamente mais tarde",
+    "restoreCourseNotPurchase": "Você não pode restaurar este curso",
+    "showAllReview": "Mostre tudo"
+  },
+  "forgot": {
+    "title": "Esqueceu sua senha",
+    "description": "Por favor, indique o seu endereço de e-mail. ",
+    "emailPlaceholder": "Seu endereço de email",
+    "btnSubmit": "Redefinir senha"
+  },
+  "learningScreen": {
+    "finishCourse": "Concluir curso",
+    "finishCourseAlert": {
+      "title": "Concluir curso",
+      "description": "Tem certeza de que deseja terminar este curso?",
+      "cancel": "Cancelar",
+      "ok": "OK"
+    },
+    "lesson": {
+      "btnComplete": "Completo",
+      "notificationLessonSuccess": "Parabéns! ",
+      "alert": {
+        "title": "Concluído",
+        "ok": "OK"
+      }
+    },
+    "quiz": {
+      "questionCount": "Questões:",
+      "passingGrade": "Nota de aprovação:",
+      "btnStart": "Começar",
+      "result": {
+        "title": "Seu resultado",
+        "failed": "Sua nota no questionário foi reprovada.  {{result}}% (o requisito é o {{grade}})",
+        "questions": "Questões",
+        "correct": "Correto",
+        "wrong": "Errado",
+        "skipped": "Ignorado",
+        "points": "Pontos",
+        "timespent": "Tempo gasto",
+        "btnRetake": "Retomar",
+        "btnRetakeUnlimited": "Ilimitado",
+        "btnReview": "Análise"
+      },
+      "timeRemaining": "restante",
+      "correct": "Correto",
+      "inCorrect": "Incorreta",
+      "point": "apontar",
+      "pointResult": "{}/1 ponto",
+      "explanation": "Explicação",
+      "btnCheck": "Verifique a resposta",
+      "checkAlert": "Por favor, responda às perguntas primeiro",
+      "questionAnswered": "Pergunta respondida",
+      "btnFinish": "Terminar",
+      "nextQuestion": "Você respondeu a todas as suas perguntas. ",
+      "hint": "Dica",
+      "hintEmpty": "A dica está vazia"
+    },
+    "assignment": {
+      "title": "Atribuição",
+      "acceptAllowed": "tentativas permitidas",
+      "durations": "Durações ",
+      "passingGrade": "Nota de aprovação",
+      "point": "{{point}} pontos)",
+      "start": "Começar",
+      "timeRemaining": "Tempo restante",
+      "overview": "Visão geral:",
+      "contentTitle": "Porque usamos isso?",
+      "attachmentFile": "Anexo:",
+      "answer": "Responder:",
+      "chooseFile": "Escolher os arquivos",
+      "nofile": "Nenhum arquivo escolhido",
+      "chooseFileDescription": "(Quantidade máxima de arquivos que você pode enviar mais: {{files_amount}}.  {{allow_file_type}})",
+      "save": "SALVAR",
+      "send": "ENVIAR",
+      "yourResult": "Seu resultado:",
+      "attachments": "Anexos:",
+      "missingAttachment": "Anexo ausente",
+      "missingAttachments": "Anexos ausentes",
+      "yourAnswer": "Sua Resposta:",
+      "yourUploadedFiles": "Seus arquivos enviados:",
+      "instructorMessage": "Mensagem do instrutor:",
+      "references": "Referências:",
+      "messageSaveAssignment": "O progresso foi salvo! ",
+      "resultPassed": "Passado",
+      "resultFailed": "Fracassado",
+      "btnRetake": "Retomar ({{count}})",
+      "deleteFileTitle": "Excluir arquivo",
+      "deleteFileMessage": "Tem certeza de que deseja excluir este arquivo?",
+      "deleteFileSuccessMessage": "Remover arquivo com sucesso",
+      "cancel": "Cancelar",
+      "ok": "OK",
+      "notificationSuccess": "O que você fez foi enviado aos instrutores, aguarde o resultado avaliado!"
+    }
+  },
+  "notification": {
+    "title": "Notificações",
+    "empty": "Nenhuma notificação",
+    "error": "Erro ao receber notificações"
+  },
+  "reviews": {
+    "title": "Avaliações",
+    "empty": "Sem comentários",
+    "error": "Erro ao obter avaliações"
+  },
+  "reviewQuiz": {
+    "status": {
+      "success": "Correto",
+      "failed": "Incorreta"
+    },
+    "failed": "Fracassado",
+    "success": "Sucesso",
+    "graduation": "Sua nota no questionário foi reprovada. "
+  },
+  "language": "Linguagem",
+  "changeLanguageSuccess": "A atualização do idioma foi bem-sucedida.",
+  "error": "Erro",
+  "loading": "Carregando...",
+  "weeks": "semanas",
+  "days": "dias",
+  "hour": "hora",
+  "minutes": "minutos",
+  "active": {
+    "lpWishlist": "Please active plugin LearnPress- Course Wishlist!"
+  }
+}

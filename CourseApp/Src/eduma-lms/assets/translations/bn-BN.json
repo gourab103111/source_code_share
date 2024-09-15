@@ -1,0 +1,302 @@
+{
+  "login": "প্রবেশ করুন",
+  "register": "নিবন্ধন",
+  "logout": "প্রস্থান",
+  "lesson": "পাঠ",
+  "course": "কোর্স",
+  "quiz": "কুইজ",
+  "assignment": "অ্যাসাইনমেন্ট",
+  "instructor": "প্রশিক্ষক",
+  "dataNotFound": "তথ্য পাওয়া যায়নি",
+  "needLogin": "এই কন্টেন্ট অ্যাক্সেস করতে আপনাকে লগইন করতে হবে",
+  "free": "বিনামূল্যে",
+  "sale": "বিক্রয়",
+  "durations": "সময়কাল: ",
+  "alert": {
+    "logoutTxt": "আপনি লগ আউট করতে চান?",
+    "ok": "ঠিক আছে",
+    "cancel": "বাতিল করুন",
+    "notLoggedIn": "লগ ইন করা হয়নি",
+    "loggedIn": "অবিরত লগ ইন করুন.",
+    "btnLogin": "প্রবেশ করুন",
+    "restorePurchases": "কেনাকাটা পুনরুদ্ধার করুন",
+    "restorePurchasesSuccess": "ক্রয়গুলি সফলভাবে পুনরুদ্ধার করা হয়েছে৷",
+    "restorePurchasesError": "আপনি এই কোর্স পুনরুদ্ধার করতে পারবেন না"
+  },
+  "bottomNavigation": {
+    "home": "বাড়ি",
+    "courses": "পাঠ্যধারাগুলি",
+    "myCourse": "আমার কোর্স",
+    "wishlist": "ইচ্ছেতালিকা",
+    "profile": "আমার প্রোফাইল"
+  },
+  "loginScreen": {
+    "title": "আপনার অ্যাকাউন্টে লগ ইন করুন",
+    "usernamePlaceholder": "ব্যবহারকারীর নাম",
+    "passwordPlaceholder": "পাসওয়ার্ড",
+    "btnLogin": "প্রবেশ করুন",
+    "forgotPassword": "আপনি কি পাসওয়ার্ড ভুলে গেছেন",
+    "registerText": "অ্যাকাউন্ট নেই?",
+    "register": "নিবন্ধন করুন",
+    "usernameEmpty": "ইউজার নাম দরকার",
+    "passwordEmpty": "পাসওয়ার্ড প্রয়োজন",
+    "usernameNotCorrect": "ব্যবহারকারীর নাম সঠিক নয়",
+    "passwordNotCorrect": "পাসওয়ার্ড সঠিক নয়",
+    "notFound": "পাওয়া যায়নি"
+  },
+  "registerScreen": {
+    "title": "একটি অ্যাকাউন্ট তৈরি করুন",
+    "usernamePlaceholder": "ব্যবহারকারীর নাম",
+    "emailPlaceholder": "ইমেইল",
+    "passwordPlaceholder": "পাসওয়ার্ড",
+    "confirmPasswordPlaceholder": "পাসওয়ার্ড নিশ্চিত করুন",
+    "termAndCondition": "আমি শর্তাবলী চুক্তিতে সম্মত",
+    "btnSubmit": "নিবন্ধন করুন",
+    "usernameEmpty": "ইউজার নাম দরকার",
+    "emailEmpty": "ইমেল প্রয়োজন",
+    "validEmail": "ইমেল বৈধ নয়",
+    "passwordEmpty": "পাসওয়ার্ড প্রয়োজন",
+    "confirmPasswordEmpty": "পাসওয়ার্ড নিশ্চিত করুন প্রয়োজন বোধ করা হয়",
+    "incorrectPassword": "নিশ্চিতকরণ পাসওয়ার্ড ভুল!",
+    "termAndConditionEmpty": "আপনি শর্তাবলী সম্মত হতে হবে"
+  },
+  "home": {
+    "overview": {
+      "title": "আপনার সর্বশেষ কোর্স ওভারভিউ",
+      "section": "অধ্যায়",
+      "sections": "বিভাগসমূহ"
+    },
+    "category": "হাই, আপনি আজ কি শিখবেন?",
+    "popular": "জনপ্রিয় কোর্স",
+    "new": "নতুন কোর্স",
+    "countCourse": "পাঠ্যধারাগুলি",
+    "countStudent": "ছাত্ররা"
+  },
+  "courses": {
+    "title": "পাঠ্যধারাগুলি",
+    "searching": "অনুসন্ধান করা হচ্ছে",
+    "filters": {
+      "filter": "ছাঁকনি",
+      "default": "ডিফল্ট",
+      "title": "শিরোনাম",
+      "sale": "বিক্রয়",
+      "popular": "জনপ্রিয়",
+      "newest": "সবথেকে নতুন",
+      "oldest": "প্রবীণতম"
+    }
+  },
+  "searchScreen": {
+    "placeholder": "অনুসন্ধান করুন...",
+    "title": "সাম্প্রতিক অনুসন্ধান"
+  },
+  "myCourse": {
+    "title": "আমার কোর্স",
+    "filters": {
+      "filter": "ছাঁকনি",
+      "all": "সব",
+      "passed": "পাস করেছে",
+      "inProgress": "চলমান",
+      "failed": "ব্যর্থ"
+    }
+  },
+  "wishlist": {
+    "title": "আমার ইচ্ছাগুলি"
+  },
+  "profile": {
+    "title": "প্রোফাইল",
+    "version": "সংস্করণ: {} - বিল্ড: {}"
+  },
+  "settings": {
+    "title": "সেটিংস",
+    "general": "সাধারণ",
+    "password": "পাসওয়ার্ড",
+    "deleteAccount": "হিসাব মুছে ফেলা",
+    "upload": "আপলোড করুন",
+    "update": "হালনাগাদ",
+    "bio": "জীবনীসংক্রান্ত তথ্য",
+    "firstName": "নামের প্রথম অংশ",
+    "lastName": "নামের শেষাংশ",
+    "nickName": "ডাকনাম",
+    "save": "পরিবর্তনগুলোর সংরক্ষন",
+    "currentPassword": "বর্তমান পাসওয়ার্ড",
+    "newPassword": "নতুন পাসওয়ার্ড",
+    "confirmNewPassword": "নিশ্চিত কর নতুন গোপননম্বর",
+    "deleteAccountTitle": "আপনি কি এই অ্যাকাউন্টটি মুছে ফেলার বিষয়ে নিশ্চিত? ",
+    "deleteAccountTitle2": "হিসাব",
+    "deleteAccountContent": "আপনার অ্যাকাউন্ট আমাদের ডাটাবেস থেকে মুছে ফেলা হবে. ",
+    "deleteAccountContent2": "নিশ্চিত করতে আপনার পাসওয়ার্ড দিন:",
+    "deleteAccountBtn": "মুছে ফেলা",
+    "chooseFrom": "থেকে পছন্দ করে নিন",
+    "camera": "ক্যামেরা",
+    "gallery": "গ্যালারি",
+    "cancel": "বাতিল করুন",
+    "passwordAlreadyExists": "পাসওয়ার্ড আগেই নেওয়া হয়েছে।",
+    "passwordNotMatch": "আপনি যে পাসওয়ার্ডগুলি লিখছেন তা মেলে না৷",
+    "newPasswordIsRequired": "নতুন পাসওয়ার্ড প্রয়োজন",
+    "currentPasswordIsRequired": "বর্তমান পাসওয়ার্ড প্রয়োজন",
+    "confirmPasswordIsRequired": "নিশ্চিত পাসওয়ার্ড প্রয়োজন"
+  },
+  "myOrders": {
+    "title": "আমার আদেশ",
+    "order": "অর্ডার",
+    "date": "তারিখ",
+    "status": "স্ট্যাটাস",
+    "total": "মোট",
+    "completed": "সম্পন্ন"
+  },
+  "instructorScreen": {
+    "title": "প্রশিক্ষক",
+    "countCourse": "{count} কোর্স",
+    "countStudent": "{count} শিক্ষার্থী"
+  },
+  "singleCourse": {
+    "title": "একক কোর্স",
+    "overview": "ওভারভিউ",
+    "curriculum": "পাঠ্যক্রম",
+    "curriculumEmpty": "পাঠ্যক্রম খালি",
+    "instructor": "প্রশিক্ষক",
+    "review": "পুনঃমূল্যায়ন",
+    "rating": "রেটিং",
+    "leaveAReview": "একটি পর্যালোচনা ছেড়ে দিন",
+    "leaveAReviewDescription": "অনুগ্রহ করে আপনার রেটিংকে যুক্তিযুক্ত করতে এবং অন্যদের সাহায্য করার জন্য যতটা সম্ভব বিস্তারিত জানান।",
+    "reviewTitle": "শিরোনাম",
+    "reviewTitleEmpty": "শিরোনাম রেটিং লিখুন দয়া করে",
+    "reviewContentEmpty": "অনুগ্রহ করে কন্টেন্ট রেটিং লিখুন",
+    "reviewRating": "রেটিং",
+    "reviewContent": "বিষয়বস্তু",
+    "reviewSubmit": "পর্যালোচনা জমা দিন",
+    "btnContinue": "চালিয়ে যান",
+    "btnStartNow": "এখনই শুরু কর",
+    "btnAddToCart": "কার্টে যোগ করুন",
+    "btnRestore": "পুনরুদ্ধার করুন",
+    "btnRetake": "পুনরায় গ্রহণ করুন",
+    "retakeNotice": "সাফল্য পুনরায় গ্রহণ করুন",
+    "passed": "পাস করেছে",
+    "failed": "ব্যর্থ",
+    "finished": "সমাপ্ত",
+    "average": "গড়:",
+    "purchaseNotCompleted": "আপনার ক্রয় সম্পূর্ণ হয়নি, অনুগ্রহ করে পরে আবার চেষ্টা করুন",
+    "restoreCourseNotPurchase": "আপনি এই কোর্স পুনরুদ্ধার করতে পারবেন না",
+    "showAllReview": "সব দেখাও"
+  },
+  "forgot": {
+    "title": "আপনি কি পাসওয়ার্ড ভুলে গেছেন",
+    "description": "আপনার ইমেইল ঠিকানা লিখুন. ",
+    "emailPlaceholder": "আপনার ইমেইল ঠিকানা",
+    "btnSubmit": "পাসওয়ার্ড রিসেট করুন"
+  },
+  "learningScreen": {
+    "finishCourse": "কোর্স শেষ করুন",
+    "finishCourseAlert": {
+      "title": "কোর্স শেষ করুন",
+      "description": "আপনি কি নিশ্চিত আপনি এই কোর্সটি শেষ করতে চান?",
+      "cancel": "বাতিল করুন",
+      "ok": "ঠিক আছে"
+    },
+    "lesson": {
+      "btnComplete": "সম্পূর্ণ",
+      "notificationLessonSuccess": "অভিনন্দন! ",
+      "alert": {
+        "title": "সম্পন্ন",
+        "ok": "ঠিক আছে"
+      }
+    },
+    "quiz": {
+      "questionCount": "প্রশ্ন:",
+      "passingGrade": "পাসিং গ্রেড:",
+      "btnStart": "শুরু করুন",
+      "result": {
+        "title": "আপনার ফলাফল",
+        "failed": "আপনার কুইজ গ্রেড ব্যর্থ হয়েছে.  {{result}}% (প্রয়োজন হল {{grade}})",
+        "questions": "প্রশ্ন",
+        "correct": "সঠিক",
+        "wrong": "ভুল",
+        "skipped": "এড়িয়ে গেছে",
+        "points": "পয়েন্ট",
+        "timespent": "সময় অতিবাহিত",
+        "btnRetake": "পুনরায় গ্রহণ করুন",
+        "btnRetakeUnlimited": "আনলিমিটেড",
+        "btnReview": "পুনঃমূল্যায়ন"
+      },
+      "timeRemaining": "অবশিষ্ট",
+      "correct": "সঠিক",
+      "inCorrect": "ত্রুটিপূর্ণ",
+      "point": "বিন্দু",
+      "pointResult": "{}/১ পয়েন্ট",
+      "explanation": "ব্যাখ্যা",
+      "btnCheck": "উত্তর চেক করুন",
+      "checkAlert": "অনুগ্রহ করে প্রথমে প্রশ্নের উত্তর দিন",
+      "questionAnswered": "প্রশ্নের উত্তর দিয়েছেন",
+      "btnFinish": "শেষ করুন",
+      "nextQuestion": "আপনি আপনার সব প্রশ্নের উত্তর দিয়েছেন. ",
+      "hint": "ইঙ্গিত",
+      "hintEmpty": "ইঙ্গিত খালি"
+    },
+    "assignment": {
+      "title": "অ্যাসাইনমেন্ট",
+      "acceptAllowed": "প্রচেষ্টা অনুমোদিত",
+      "durations": "সময়কাল ",
+      "passingGrade": "পাসিং গ্রেড",
+      "point": "{{point}} পয়েন্ট(গুলি)",
+      "start": "শুরু করুন",
+      "timeRemaining": "অবশিষ্ট সময়",
+      "overview": "সংক্ষিপ্ত বিবরণ:",
+      "contentTitle": "আমরা কেন এটা ব্যবহার করি?",
+      "attachmentFile": "সংযুক্তি:",
+      "answer": "উত্তর:",
+      "chooseFile": "ফাইল বেছে নিন",
+      "nofile": "কোন ফাইল নির্বাচন করুন",
+      "chooseFileDescription": "(সর্বোচ্চ ফাইলের পরিমাণ আপনি আরো আপলোড করতে পারেন: {{files_amount}}.  {{allow_file_type}})",
+      "save": "সংরক্ষণ",
+      "send": "পাঠান",
+      "yourResult": "আপনার ফলাফল:",
+      "attachments": "সংযুক্তি:",
+      "missingAttachment": "হারিয়ে যাওয়া সংযুক্তি",
+      "missingAttachments": "অনুপস্থিত সংযুক্তি",
+      "yourAnswer": "তোমার উত্তর:",
+      "yourUploadedFiles": "আপনার আপলোড করা ফাইল:",
+      "instructorMessage": "প্রশিক্ষক বার্তা:",
+      "references": "তথ্যসূত্র:",
+      "messageSaveAssignment": "অগ্রগতি রক্ষা করা হয়েছিল! ",
+      "resultPassed": "পাস করেছে",
+      "resultFailed": "ব্যর্থ",
+      "btnRetake": "পুনরায় গ্রহণ ({{count}})",
+      "deleteFileTitle": "নথিপত্র মুছে দাও",
+      "deleteFileMessage": "আপনি কি এই ফাইলটি মুছতে চান?",
+      "deleteFileSuccessMessage": "সফলভাবে ফাইল সরান",
+      "cancel": "বাতিল করুন",
+      "ok": "ঠিক আছে",
+      "notificationSuccess": "আপনি যা করেছেন তা প্রশিক্ষকদের কাছে পাঠানো হয়েছে, অনুগ্রহ করে মূল্যায়ন করা ফলাফলের জন্য অপেক্ষা করুন!"
+    }
+  },
+  "notification": {
+    "title": "বিজ্ঞপ্তি",
+    "empty": "বিজ্ঞপ্তি নেই",
+    "error": "বিজ্ঞপ্তি পাওয়ার সময় ত্রুটি"
+  },
+  "reviews": {
+    "title": "রিভিউ",
+    "empty": "কোন পর্যালোচনা নেই",
+    "error": "পর্যালোচনা পেতে ত্রুটি"
+  },
+  "reviewQuiz": {
+    "status": {
+      "success": "সঠিক",
+      "failed": "ত্রুটিপূর্ণ"
+    },
+    "failed": "ব্যর্থ",
+    "success": "সফলতা",
+    "graduation": "আপনার কুইজ গ্রেড ব্যর্থ হয়েছে. "
+  },
+  "language": "ভাষা",
+  "changeLanguageSuccess": "ভাষা আপডেট সফল হয়েছে.",
+  "error": "ত্রুটি",
+  "loading": "লোড হচ্ছে...",
+  "weeks": "সপ্তাহ",
+  "days": "দিন",
+  "hour": "ঘন্টা",
+  "minutes": "মিনিট",
+  "active": {
+    "lpWishlist": "Please active plugin LearnPress- Course Wishlist!"
+  }
+}

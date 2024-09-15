@@ -1,0 +1,302 @@
+{
+  "login": "Login",
+  "register": "Register",
+  "logout": "Logout",
+  "lesson": "Lesson",
+  "course": "Course",
+  "quiz": "Quiz",
+  "assignment": "Assignment",
+  "instructor": "Instructor",
+  "dataNotFound": "Data not found",
+  "needLogin": "You need to login to access this content",
+  "free": "FREE",
+  "sale": "SALE",
+  "durations": "Durations: ",
+  "alert": {
+    "logoutTxt": "Are you sure you want to logout?",
+    "ok": "OK",
+    "cancel": "Cancel",
+    "notLoggedIn": "Not logged in",
+    "loggedIn": "Please login to continue.",
+    "btnLogin": "Login",
+    "restorePurchases": "Restore purchases",
+    "restorePurchasesSuccess": "Purchases restored successfully",
+    "restorePurchasesError": "You can not restore this course"
+  },
+  "bottomNavigation": {
+    "home": "Home",
+    "courses": "Courses",
+    "myCourse": "My course",
+    "wishlist": "Wishlist",
+    "profile": "My profile"
+  },
+  "loginScreen": {
+    "title": "Login to your account",
+    "usernamePlaceholder": "Username",
+    "passwordPlaceholder": "Password",
+    "btnLogin": "Login",
+    "forgotPassword": "Forgot your password",
+    "registerText": "Don't have account?",
+    "register": "Sign up",
+    "usernameEmpty": "Username is required",
+    "passwordEmpty": "Password is required",
+    "usernameNotCorrect": "Username is not correct",
+    "passwordNotCorrect": "Password is not correct",
+    "notFound": "Not found"
+  },
+  "registerScreen": {
+    "title": "Create an account",
+    "usernamePlaceholder": "Username",
+    "emailPlaceholder": "Email",
+    "passwordPlaceholder": "Password",
+    "confirmPasswordPlaceholder": "Confirm password",
+    "termAndCondition": "I agree to the terms and conditions Agreement",
+    "btnSubmit": "Sign up",
+    "usernameEmpty": "Username is required",
+    "emailEmpty": "Email is required",
+    "validEmail": "Email is not valid",
+    "passwordEmpty": "Password is required",
+    "confirmPasswordEmpty": "Confirm password is required",
+    "incorrectPassword": "Confirmation password incorrect!",
+    "termAndConditionEmpty": "You must agree to the terms and conditions"
+  },
+  "home": {
+    "overview": {
+      "title": "Overview your latest course",
+      "section": "Section",
+      "sections": "Sections"
+    },
+    "category": "Hi, what would you learn today?",
+    "popular": "Popular courses",
+    "new": "New courses",
+    "countCourse": "Courses",
+    "countStudent": "Students"
+  },
+  "courses": {
+    "title": "Courses",
+    "searching": "Searching",
+    "filters": {
+      "filter": "Filter",
+      "default": "Default",
+      "title": "Title",
+      "sale": "Sale",
+      "popular": "Popular",
+      "newest": "Newest",
+      "oldest": "Oldest"
+    }
+  },
+  "searchScreen": {
+    "placeholder": "Search...",
+    "title": "Recent search"
+  },
+  "myCourse": {
+    "title": "My Course",
+    "filters": {
+      "filter": "Filter",
+      "all": "All",
+      "passed": "Passed",
+      "inProgress": "In progress",
+      "failed": "Failed"
+    }
+  },
+  "wishlist": {
+    "title": "My Wishlist"
+  },
+  "profile": {
+    "title": "Profile",
+    "version": "Version: {} - Build: {}"
+  },
+  "settings": {
+    "title": "Settings",
+    "general": "General",
+    "password": "Password",
+    "deleteAccount": "Delete account",
+    "upload": "Upload",
+    "update": "Update",
+    "bio": "Biographical Info",
+    "firstName": "First Name",
+    "lastName": "Last Name",
+    "nickName": "Nickname",
+    "save": "Save changes",
+    "currentPassword": "Current Password",
+    "newPassword": "New Password",
+    "confirmNewPassword": "Confirm New Password",
+    "deleteAccountTitle": "Are you sure you want to delete this account? Please read how account deletion works before you delete your account.",
+    "deleteAccountTitle2": "Account",
+    "deleteAccountContent": "Your account will be deleted from our database. All courses will be deleted from your account.",
+    "deleteAccountContent2": "Please enter your password to confirm:",
+    "deleteAccountBtn": "Delete",
+    "chooseFrom": "Choose From",
+    "camera": "Camera",
+    "gallery": "Gallery",
+    "cancel": "Cancel",
+    "passwordAlreadyExists": "The password has already been taken.",
+    "passwordNotMatch": "The passwords you are entering do not match",
+    "newPasswordIsRequired": "The new password is required",
+    "currentPasswordIsRequired": "The current password is required",
+    "confirmPasswordIsRequired": "The confirm password is required"
+  },
+  "myOrders": {
+    "title": "My Orders",
+    "order": "Order",
+    "date": "Date",
+    "status": "Status",
+    "total": "Total",
+    "completed": "completed"
+  },
+  "instructorScreen": {
+    "title": "Instructor",
+    "countCourse": "{count} courses",
+    "countStudent": "{count} students"
+  },
+  "singleCourse": {
+    "title": "Single Courses",
+    "overview": "Overview",
+    "curriculum": "Curriculum",
+    "curriculumEmpty": "Curriculum is empty",
+    "instructor": "Instructor",
+    "review": "Review",
+    "rating": "rating",
+    "leaveAReview": "Leave a Review",
+    "leaveAReviewDescription": "Please provide as much detail as you can to jusify your rating and to help others.",
+    "reviewTitle": "Title",
+    "reviewTitleEmpty": "Please enter title rating",
+    "reviewContentEmpty": "Please enter content rating",
+    "reviewRating": "Rating",
+    "reviewContent": "Content",
+    "reviewSubmit": "Submit review",
+    "btnContinue": "Continue",
+    "btnStartNow": "Start Now",
+    "btnAddToCart": "Add to Cart",
+    "btnRestore": "Restore",
+    "btnRetake": "Retake",
+    "retakeNotice": "Retake success",
+    "passed": "Passed",
+    "failed": "Failed",
+    "finished": "Finished",
+    "average": "Average:",
+    "purchaseNotCompleted": "Your purchase has not been completed, please try again later",
+    "restoreCourseNotPurchase": "You can not restore this course",
+    "showAllReview": "Show all"
+  },
+  "forgot": {
+    "title": "Forgot your password",
+    "description": "Please enter your email address. You will receive a code to create a new password via email",
+    "emailPlaceholder": "Your email address",
+    "btnSubmit": "Reset password"
+  },
+  "learningScreen": {
+    "finishCourse": "Finish course",
+    "finishCourseAlert": {
+      "title": "Finish course",
+      "description": "Are you sure you want to finish this course?",
+      "cancel": "Cancel",
+      "ok": "OK"
+    },
+    "lesson": {
+      "btnComplete": "Complete",
+      "notificationLessonSuccess": "Congrats! You have completed the lesson successfully.",
+      "alert": {
+        "title": "Completed",
+        "ok": "OK"
+      }
+    },
+    "quiz": {
+      "questionCount": "Questions:",
+      "passingGrade": "Passing grade:",
+      "btnStart": "Start",
+      "result": {
+        "title": "Your Result",
+        "failed": "Your quiz grade failed. The result is {{result}}% (the requirement is the {{grade}})",
+        "questions": "Questions",
+        "correct": "Correct",
+        "wrong": "Wrong",
+        "skipped": "Skipped",
+        "points": "Points",
+        "timespent": "Time spent",
+        "btnRetake": "Retake",
+        "btnRetakeUnlimited": "Unlimited",
+        "btnReview": "Review"
+      },
+      "timeRemaining": "remaining",
+      "correct": "Correct",
+      "inCorrect": "Incorrect",
+      "point": "point",
+      "pointResult": "{}/1 point",
+      "explanation": "Explanation",
+      "btnCheck": "Check answer",
+      "checkAlert": "Please answer questions first",
+      "questionAnswered": "Question answered",
+      "btnFinish": "Finish",
+      "nextQuestion": "You have answered all your questions. You can review or hit the Finish button",
+      "hint": "Hint",
+      "hintEmpty": "Hint is empty"
+    },
+    "assignment": {
+      "title": "Assignment",
+      "acceptAllowed": "Attempts allowed",
+      "durations": "Durations ",
+      "passingGrade": "Passing grade",
+      "point": "{{point}} point(s)",
+      "start": "Start",
+      "timeRemaining": "Time remaining",
+      "overview": "Overview:",
+      "contentTitle": "Why do we use it?",
+      "attachmentFile": "Attachment:",
+      "answer": "Answer:",
+      "chooseFile": "Choose Files",
+      "nofile": "No file choose",
+      "chooseFileDescription": "(Maximum amount of files you can upload more: {{files_amount}}. And allow upload only these types: {{allow_file_type}})",
+      "save": "SAVE",
+      "send": "SEND",
+      "yourResult": "Your result:",
+      "attachments": "Attachments:",
+      "missingAttachment": "Missing attachment",
+      "missingAttachments": "Missing attachments",
+      "yourAnswer": "Your answer:",
+      "yourUploadedFiles": "Your uploaded files:",
+      "instructorMessage": "Instructor message:",
+      "references": "References:",
+      "messageSaveAssignment": "The progress was saved! Your file(s) were uploaded successfully!",
+      "resultPassed": "Passed",
+      "resultFailed": "Failed",
+      "btnRetake": "Retake ({{count}})",
+      "deleteFileTitle": "Delete file",
+      "deleteFileMessage": "Are you sure you want to delete this file?",
+      "deleteFileSuccessMessage": "Remove file successfully",
+      "cancel": "Cancel",
+      "ok": "OK",
+      "notificationSuccess": "What you did was sent to the instructors, please wait the evaluated result!"
+    }
+  },
+  "notification": {
+    "title": "Notifications",
+    "empty": "No notifications",
+    "error": "Error when get notifications"
+  },
+  "reviews": {
+    "title": "Reviews",
+    "empty": "No reviews",
+    "error": "Error when get reviews"
+  },
+  "reviewQuiz": {
+    "status": {
+      "success": "Correct",
+      "failed": "Incorrect"
+    },
+    "failed": "Failed",
+    "success": "Success",
+    "graduation": "Your quiz grade failed. The result is {}% (the requirement is the {})"
+  },
+  "language": "Language",
+  "changeLanguageSuccess": "The language update was successful.",
+  "error": "Error",
+  "loading": "Loading...",
+  "weeks": "weeks",
+  "days": "days",
+  "hour": "hour",
+  "minutes": "minutes",
+  "active": {
+    "lpWishlist": "Please active plugin LearnPress- Course Wishlist!"
+  }
+}
